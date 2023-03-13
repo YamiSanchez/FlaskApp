@@ -1,6 +1,6 @@
 # FlaskApp
 //Primero se verifica si se tiene descargado python
-//Después se genera el ambiente virtual con el comando $ python3 -m venv env
+#Después se genera el ambiente virtual con el comando $ python3 -m venv env
 Luego lo activamos con .\env\Scripts\activate
 Instalamos flask dentro del ambiente: pip install flask
 Desacargamos los archivos del repositorio 
